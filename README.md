@@ -1,6 +1,6 @@
 # Facebook_scrapping
 Run 
-sudo docker-compose up
+* sudo docker-compose up
 
 remarks:
 * You should install chromedriver according to the version of your chrome 
